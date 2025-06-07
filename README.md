@@ -1,34 +1,49 @@
 # 👋 Hi, I'm Nivesh Gurjar
 
-🚀 **AWS Data Engineer | Python | PySpark | SQL | Glue, S3, Lambda, Athena**
+🚀 **AWS Data Engineer | Python | PySpark | SQL | Glue, Lambda, S3, Athena**
 
-I'm a cloud-first data engineer with 4+ years of experience building scalable, serverless ETL pipelines using AWS services and PySpark. I specialise in automating data workflows, optimizing query performance, and architecting production-ready data lake solutions.
-
----
-
-## 🔧 Tech Stack & Tools
-
-- 🐍 Python, PySpark, SQL
-- ☁️ **AWS:** Glue, S3, Lambda, Athena, Step Functions, IAM, CloudWatch
-- 🔥 Databricks, Delta Lake, Apache Spark
-- 🛠️ Control-M, Git, Jenkins, REST APIs
-- 📊 PostgreSQL, MySQL, Pandas
+I'm a data engineer with 3+ years of experience in designing and implementing scalable, cloud-native ETL pipelines. I specialize in leveraging AWS services, PySpark, and SQL to solve complex data problems, automate workflows, and improve system reliability. I’ve contributed to reducing operational costs, enhancing security, and modernizing legacy systems for enterprise-scale clients.
 
 ---
 
-## 🚀 Featured Projects
+## 🔧 Tech Stack
 
-### 🌀 **Serverless Flight Delay ETL (AWS Glue + Athena)**
-Designed and deployed an AWS Glue-based ETL pipeline to process flight delay datasets and store them in partitioned S3 buckets, queried via Athena.
+- 🐍 Python, SQL, PySpark
+- ☁️ AWS: EC2, S3, IAM, Lambda, Step Functions, CloudWatch, DynamoDB, RDS
+- 🔥 Apache Spark, Delta Lake
+- 🛠️ Jenkins, Git, Control-M, PgAdmin, DataGrip
+- 💾 PostgreSQL, MySQL
 
-### 🔐 **Secure PII Data Masking (PySpark + S3)**
-Implemented a scalable data masking framework to anonymise PII across large datasets using PySpark and stored results securely in S3 with metadata tagging.
+---
 
-### 🧹 **S3 Data Cleanup Automation (Lambda + Boto3)**
-Built an AWS Lambda function to automate the cleanup of unused files in S3 based on lifecycle rules, integrated with CloudWatch alerts.
+## 🚀 Key Projects
 
-### 📊 **SQL Optimization Portfolio**
-Advanced SQL queries using CTEs, window functions, and indexing. Includes performance comparison before and after optimization.
+### 🔐 **PII Data Masking & Transformation Pipeline**
+- Built a PySpark-based ETL pipeline to clean, transform, and mask PII data across large datasets.
+- Deployed masking logic to **AWS Lambda** and **Step Functions**, improving performance by 70%.
+- Reduced compliance risk by 40% and enhanced troubleshooting speed by 30%.
+
+### ⚙️ **Agent Appointment Automation**
+- Automated the onboarding and licensing workflow for insurance agents using **AWS Lambda**, **Amazon RDS**, and **S3**.
+- Scheduled and orchestrated ETL processes using **Control-M**, significantly reducing manual intervention.
+
+### ☁️ **Mock Services Cloud Migration**
+- Migrated a legacy Java + Redis-based mock service to a modern AWS-native stack.
+- Deployed **Lambda + API Gateway** with **Route 53** in a private network.
+- Used **DynamoDB** for region-specific mock data and **Python Faker** for data generation.
+
+### 🔁 **Legacy Web Services Migration**
+- Rewrote Java-based web services into modular Python code hosted via **AWS Lambda**.
+- Improved deployment speed, code maintainability, and reduced infrastructure dependency using **EC2**, **S3**, and **IAM**.
+
+---
+
+## 🧠 Key Highlights
+
+- 💡 Designed AWS-based solutions with 99.9% uptime and 15% cost savings
+- ✍️ 15K+ lines of production Python code with 500+ GitHub PRs
+- 📊 Processed massive datasets in Apache Spark for real-time analytics
+- 🔐 Strong focus on automation, scalability, and security
 
 ---
 
@@ -41,12 +56,12 @@ Advanced SQL queries using CTEs, window functions, and indexing. Includes perfor
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📧 Email: your.email@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nivesh-gurjar)
+- 📧 Email: Niveshgurjar10@gmail.com
 - 🌐 GitHub: [github.com/niveshgurjar](https://github.com/niveshgurjar)
 
 ---
 
-_☁️ Building smart, secure, and scalable data solutions on the cloud — one pipeline at a time._
+_☁️ Passionate about building secure, scalable, and efficient data platforms using AWS and open-source tools._
